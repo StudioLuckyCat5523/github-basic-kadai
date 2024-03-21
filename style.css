@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Arial", "Meiryo", sans-serif;
+	font-size: 20px;
+	text-align: center;
+	
+}
+.text-color
+{
+	color: skyblue;
+}
+.text-color0{
+	color: rgb(255, 192, 203);
+}
+h1 {
+	font-size: 200%;
+	font-style: Josefin Sans;
+	letter-spacing: 1.2em;
+	text-shadow: 3px 3px 2px gray;
+	border-bottom: solid 3px rgb(115, 115, 114);
+	
+}
+h2{
+	color :rgb(255, 192, 203);
+}
+
+
+.text-bold{
+	font-weight: bold;
+}
